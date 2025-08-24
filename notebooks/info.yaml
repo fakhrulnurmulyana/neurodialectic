@@ -1,0 +1,10 @@
+"001":
+  model: "googel_ai_studio"
+  world: "world_a"
+  status: "online"
+  language: "English"
+"002":
+  model: "googel_ai_studio"
+  world: "world_b"
+  status: "online"
+  language: "Bahasa"
